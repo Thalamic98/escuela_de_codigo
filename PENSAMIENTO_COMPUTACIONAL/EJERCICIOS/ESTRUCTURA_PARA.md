@@ -28,12 +28,12 @@
 
 1.- Inicio
 
-2.- Declarar contador1, contador2, resultado1, resultado2)int
+2.- Declarar contador1, contador2, resultado1)int
 
-3.- Asignar (contador1)
+3.- Asignar (contador1=1)
 
-4.- Asignar (contador2)
+4.- Asignar (contador2=1)
 
-5.- PARA (Contador1<=10) resultado1= (PARA (contador2<=10)  resultado2=numero*contador mostar(numero * contador = resutado) contador=contador + 1 FIN PARA) contador=contador + 1 FIN PARA
+5.- PARA (Contador1<=10) resultado1= (PARA (contador2<=10)  resultado=contador1*contador2 mostar(contador1 * contador2 = resutado) contador=contador + 1 FIN PARA) contador=contador + 1 FIN PARA
 
 6.- Fin
